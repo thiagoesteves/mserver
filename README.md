@@ -8,7 +8,7 @@ The Mserver application is dependent on GPROC library and rebar3
 
 ## Introduction ##
 
-This is just an simple example of how to handle multiple gen_servers that are using the exactly same code and are under the same supervisor.
+This is just an simple example of how to handle multiple gen_servers that are using the exactly same code and are under the same supervisor (this is a different approach than simple_one_for_one)
 
 ### Running application ###
 
